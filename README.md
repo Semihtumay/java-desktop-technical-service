@@ -15,7 +15,7 @@ E-Mail  | Password
 semih@gmail.com  | 12345
 
 ### Application Images
-<img src=https://github.com/Semihtumay/java-desktop-technical-service/blob/main/images/Login.PNG width="350" title="hover text">
+
   <img src=https://github.com/Semihtumay/java-desktop-technical-service/blob/main/images/Login.PNG width="350" alt="accessibility text">
   
   <img src=https://github.com/Semihtumay/java-desktop-technical-service/blob/main/images/Dashboard.PNG width="350" title="hover text">
