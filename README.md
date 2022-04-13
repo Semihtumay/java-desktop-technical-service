@@ -20,7 +20,7 @@ semih@gmail.com  | 12345
   
   <img src=https://github.com/Semihtumay/java-desktop-technical-service/blob/main/images/Dashboard%20.PNG width="250" title="hover text">
   
-  <img src=https:https://github.com/Semihtumay/java-desktop-technical-service/blob/main/images/AddUser%20.PNG width="250" title="hover text">
+  <img src=https://github.com/Semihtumay/java-desktop-technical-service/blob/main/images/AddUser%20.PNG width="250" title="hover text">
   
   <img src=https://github.com/Semihtumay/java-desktop-technical-service/blob/main/images/Service.PNG width="250" title="hover text">
  
