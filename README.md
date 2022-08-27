@@ -1,6 +1,6 @@
 # Java Desktop Technical Service
 <p>
-In this project, which is a technical service project, this project has been designed in order to meet the general needs of the institutions providing technical service and to carry out the transactions in a fast and practical way. SQLite was used as the database during the design phase. One of the ORM tools, JPA, was used to manage the database. JFrame was used while developing the interface. Java language is used in the back-end part.
+In this project, which is a technical service project, this project has been designed in order to meet the general needs of the institutions providing technical service and to carry out the transactions in a fast and practical way. SQLite was used as the database during the design phase. JFrame was used while developing the interface. Java language is used in the back-end part.
 </p>
 
 ### Languages and Technologies Used in this Project
